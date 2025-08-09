@@ -1,4 +1,4 @@
-简体中文 | [English](./README.EN.md)
+简体中文 | [English](./README.EN.md) | [本地文档](./docs/README.md)
 
 #### 项目简介
 一个基于ABP vNext微服务架构、vue-element-admin的后台管理框架，适用于大型分布式业务系统和企业后台，也可以集成各种小程序、电商后台以及业务中台。
